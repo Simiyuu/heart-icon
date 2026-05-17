@@ -2,7 +2,7 @@
 
 A live deployment of the Heart Icon project built for the freeCodeCamp curriculum. This project demonstrates how to render scalable vector graphics directly within an HTML document without relying on external image files.
 
-**Live Demo:** [Insert your GitHub Pages link here once deployed]
+**Live Demo:** https://simiyuu.github.io/heart-icon/
 
 ##  Tech Stack
 * HTML5
